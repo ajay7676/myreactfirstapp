@@ -11,3 +11,18 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.clickme_btn_cont{
+  width: 100%;
+  max-width: 100px;
+  margin: auto;
+}
+.clickme_btn_cont h1{
+  text-align: center;
+}
+.clickme_btn_cont button{
+  background-color: blueviolet;
+  color: #ffffff;
+  font-size: 0.95rem;
+  border:1px solid blueviolet;
+  padding: 0.35rem 0.56rem;
+}
